@@ -1,0 +1,17 @@
+.deps/
+Makefile
+build/
+config.cache
+config.h
+config.log
+config.status
+cscope.out
+debian/
+lib/.deps/
+lib/Makefile
+stamp-h
+stamp-h1
+unix/.deps/
+unix/Makefile
+uuconf/.deps/
+uuconf/Makefile
